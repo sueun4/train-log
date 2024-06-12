@@ -1,0 +1,26 @@
+
+header.active_1 {padding:10px 1%; background:#000000; display:flex; width:100%; height:120px; align-items:center; justify-content: space-between; position: fixed;top: 0; z-index: 999; transition:background-color 1s; -webkit-transition: background-color 1s;} 
+header.active_2 {padding:70px 1%; background:#21bd89; display:outside; width:100%; height:3px;}
+header.active_1 .header_right {display: flex; align-items: right; }
+header.active_1 .header_right p {font-size:30px; font-weight: 200; margin-left: 45px; transition:font-weight .2s}
+header.active_1 .logo{display:flex;align-items: left; height:70px;}
+
+
+header.active_1.active {background:#404040;}
+header.active_2.active {background:#404040;}
+
+header .prd_btn {
+	margin-left:45px;
+	color:#000000;   
+	 background: #21bd89;
+    font-size: 30px;
+    padding: 4px 12px;
+    line-height: 1.3337;
+    font-weight: 500; 
+}
+
+@media screen and (max-width: 1024px) {
+	header{height:70px;}
+	header img {width:40px; height:40px;}
+	header .header_right {display:none;}
+}

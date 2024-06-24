@@ -46,7 +46,7 @@ color:#fff;
 
 
 
-.section_2 {position: relative; }
+.section_2 {position: relative; background-color: inherit; }
 .section_2 .bg_l {position:absolute; left:-532px; top:450px; z-index:0;  width:1330px; height:1330px; border-radius:50%;   box-shadow: 1px 1px 99px 0 rgba(216, 216, 234, 0.5);}
 
 .section_2 .bg_r {position: absolute; right:-395px; top:40px; z-index:0;box-shadow: 1px 1px 99px 0 rgba(216, 216, 234, 0.6); width:803px; height:803px; border-radius:50%;}
@@ -56,11 +56,12 @@ color:#fff;
 #wrap.bg-active .section_2 .bg_rt img {filter:unset;}
 
 
-.section_2 .title_cover {margin:150px auto 0; width:100%; max-width:1480px; }
+.section_2 .title_cover {margin:150px auto 0; width:100%; max-width:1480px; background-color: inherit; }
 
 .section_2 .title_cover .title_main {font-size:25px;font-weight:500; margin:0 0 10px;}
-.section_2 .title_cover .title_content {font-size:40px; font-weight:900; line-height:normal;text-align:center; }
-/* .section_2 .title_cover .title_content .str { color:#fff; -webkit-text-stroke: 1.5px #101010; font-family:none !important;} */
+.section_2 .title_cover .title_content {font-size:40px; font-weight:900; line-height:normal;text-align:center;letter-spacing:10px}
+.section_2 .title_cover .title_content_logo {font-family:"Georgia"; font-size:48px; font-weight:900; line-height:normal;text-align:center;color:#21bd89}
+
 
 .section_2 .main {position:relative; margin:85px auto 0;width:33.4375%; max-width:700px; min-width:600px;}
 .section_2 .main .main_img {width:100%; filter:grayscale(1) ; }
@@ -134,7 +135,7 @@ background-position: 0% 0%;
 .section_3 .main .product .info_cover .name.active { background-position: 0% 0%;}
 
 
-.section_3 .main .product.prd1 .prd1_img .info_cover .info {align-items:left; padding: 80px;font-size:clamp(2.5vw, 2.5vw, 28px); font-weight:500;color:#21bd89 }
+.section_3 .main .product.prd1 .prd1_img .info_cover .info {align-items:left; padding:100px;font-size:clamp(2.5vw, 2.5vw, 28px); font-weight:500;color:#21bd89 }
 
 .section_3 .main .product.prd2 {position:relative; margin:190px 0 0;}
 .section_3 .main .product.prd2:before {content:"";width:76.04166vw; max-width:1700px; height:22.6041vw;max-height:504px; position:absolute; bottom:0; right:0; transform:translate(3.904%, 32.25806%); background:url('assets/img/prd2_bg.png') no-repeat; background-size:contain;}

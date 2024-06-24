@@ -131,7 +131,7 @@ background-position: 0% 0%;
 }
 
 .section_3 .main .product .prd1_img img {
-    width: 100%;
+    width: 50%;
 }
 
 .section_3 .main .product prd.info_cover.name {
@@ -156,7 +156,7 @@ background-position: 0% 0%;
 
 
 .section_3 .main .product .prd2_img img {
-    width: 100%;
+    width: 50%;
 }
 .section_3 .main .product prd2.info_cover.name {
     font-size: 36px;

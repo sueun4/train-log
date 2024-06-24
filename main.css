@@ -134,7 +134,7 @@ background-position: 0% 0%;
     width: 50%;
 }
 
-.section_3 .main .product prd.info_cover.name {
+.section_3 .main .product_prd1.info_cover.name {
     position: absolute;
     bottom: 20px;
     left: 50%;
@@ -143,7 +143,7 @@ background-position: 0% 0%;
     text-align: center;
 }
  
-.section_3 .main .product prd.info_cover .info {
+.section_3 .main .product_prd1.info_cover .info {
   font-size: 24px;
   font-weight: 500;
   color: #21bd89;
@@ -159,12 +159,15 @@ background-position: 0% 0%;
     width: 50%;
 }
 .section_3 .main .product_prd2.info_cover.name {
-    font-size: 36px;
-    font-weight: bold;
-    margin-bottom: 10px;
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  text-align: center;
 }
 
-.section_3 .main .product prd2.info_cover .info {
+.section_3 .main .product_prd2.info_cover .info {
     font-size: 24px;
     font-weight: 500;
     color: #21bd89;

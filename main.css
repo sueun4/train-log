@@ -124,12 +124,12 @@ background-position: 0% 0%;
 .section_3 .main .product.prd1 .prd1_img {position:relative; align-items: left;width:40.3vw; max-width:900px; margin-right:17.7vw;}
 .section_3 .main .product.prd1 .prd1_img img{width:100%;}
 .section_3 .main .product.prd1 .prd1_img .info_cover { position:absolute; left:1.4%;bottom:20.3%; }
-.section_3 .main .product.prd1 .prd1_img .info_cover .name {font-size : clamp(4vw, 4vw, 115px); font-weight:bold;  }
+.section_3 .main .product.prd1 .prd1_img .info_cover .name {font-size : clamp(4vw, 4vw, 120px); font-weight:bold;  }
 
 .section_3 .main .product .info_cover .name { -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
     -webkit-text-stroke: transparent;
-  background-image: linear-gradient(to right, #404040,#ffffff );
+  background-image: linear-gradient(to right, #efefef,#bf7c7c );
   background-size: 200% 100%;
   background-position: 100% 0%;
   transition: all .8s ease-in-out;}

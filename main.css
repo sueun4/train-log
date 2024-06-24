@@ -125,13 +125,13 @@ background-position: 0% 0%;
     text-align: center;
 }
 
-.section_3 .main .product .prd1_img{
+.section_3 .main .product_prd1.prd1_img{
     position: relative;
     width: 100%;
 }
 
-.section_3 .main .product .prd1_img img {
-    width: 50%;
+.section_3 .main .product_prd1.prd1_img img {
+    width: 70%;
 }
 
 .section_3 .main .product_prd1.info_cover.name {
@@ -149,14 +149,13 @@ background-position: 0% 0%;
   color: #21bd89;
 }
 
-.section_3 .main .product .prd2_img {
+.section_3 .main .product_prd2 .prd2_img {
     position: relative;
-    padding-left: 50px;
     width: 100%;
 }
 
 .section_3 .main .product_prd2 .prd2_img img {
-    width: 50%;
+    width: 70%;
   
 }
 .section_3 .main .product_prd2.info_cover.name {

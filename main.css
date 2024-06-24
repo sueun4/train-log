@@ -101,7 +101,8 @@ background-position: 0% 0%;
 }
 .section_2 .main .content_cover {margin:70px 0 0; width:100%; display:flex; justify-content: space-between;}
 .section_2 .main .content_cover .content_title {font-size:25px; font-weight:900; color:#eb683f;}
-.section_2 .main .content_cover .content_content {font-size:20px; font-weight:500; line-height:normal}
+.section_2 .main .content_cover .content_content {font-size:48px; font-weight:500; line-height:normal;letter-spacing: 5px;}
+.section_2 .main .content_cover .content_content_logo {font-size:50px;font-family: Georgia; color:#21bd89;font-weight:500; line-height:normal}
 
 
 

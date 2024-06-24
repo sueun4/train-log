@@ -105,16 +105,6 @@ background-position: 0% 0%;
 .section_2 .main .content_cover .content_content_logo {font-size:50px;font-family: Georgia; color:#21bd89;font-weight:500; line-height:normal}
 
 
-
-
-
-.section_3 {position:relative;margin:350px auto 0; width:100%;}
-.section_3 .title_cover {width:100%; max-width:1194px; margin:0 auto;}
-.section_3 .title_cover .title_main {font-size:25px; color:#000; font-weight:500;}
-.section_3 .title_cover .title_content {font-size:40px; font-weight:900; line-height:normal;  margin:10px 0 0;}
-.section_3 .title_cover .title_sub {margin:20px 0 0; font-size:30px; font-weight: 900; line-height:normal;}
-
-
 .section_3 {
     position: relative;
     margin: 350px auto 0;

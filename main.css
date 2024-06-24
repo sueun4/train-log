@@ -155,10 +155,10 @@ background-position: 0% 0%;
 }
 
 
-.section_3 .main .product .prd2_img img {
+.section_3 .main .product_prd2 .prd2_img img {
     width: 50%;
 }
-.section_3 .main .product prd2.info_cover.name {
+.section_3 .main .product_prd2.info_cover.name {
     font-size: 36px;
     font-weight: bold;
     margin-bottom: 10px;

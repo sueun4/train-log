@@ -138,12 +138,12 @@ background-position: 0% 0%;
 .section_3 .main .product .prd1_img, 
 .section_3 .main .product .prd2_img {
     position: relative;
-    width: 100%;
+    width: 50%;
 }
 
 .section_3 .main .product .prd1_img img, 
 .section_3 .main .product .prd2_img img {
-    width: 100%;
+    width: 50%;
 }
 
 .section_3 .main .product .info_cover {

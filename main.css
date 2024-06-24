@@ -151,12 +151,13 @@ background-position: 0% 0%;
 
 .section_3 .main .product .prd2_img {
     position: relative;
+    padding-left: 50px;
     width: 100%;
 }
 
-
 .section_3 .main .product_prd2 .prd2_img img {
     width: 50%;
+  
 }
 .section_3 .main .product_prd2.info_cover.name {
   position: absolute;

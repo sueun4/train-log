@@ -111,12 +111,6 @@ background-position: 0% 0%;
     width: 100%;
 }
 
-.section_3 {
-    position: relative;
-    margin: 350px auto 0;
-    width: 100%;
-}
-
 .section_3 .main {
     position: relative;
     background-color: #404040;
@@ -131,18 +125,16 @@ background-position: 0% 0%;
     text-align: center;
 }
 
-.section_3 .main .product .prd1_img, 
-.section_3 .main .product .prd2_img {
+.section_3 .main .product .prd1_img{
     position: relative;
     width: 100%;
 }
 
-.section_3 .main .product .prd1_img img, 
-.section_3 .main .product .prd2_img img {
+.section_3 .main .product .prd1_img img {
     width: 100%;
 }
 
-.section_3 .main .product .info_cover {
+.section_3 .main .product.prdinfo_cover.name {
     position: absolute;
     bottom: 20px;
     left: 50%;
@@ -150,14 +142,28 @@ background-position: 0% 0%;
     color: white;
     text-align: center;
 }
+.section_3 .main .product.prd.info_cover .info {
+  font-size: 24px;
+  font-weight: 500;
+  color: #21bd89;
+}
+ 
+.section_3 .main .product .prd2_img {
+    position: relative;
+    width: 100%;
+}
 
-.section_3 .main .product .info_cover .name {
+
+.section_3 .main .product .prd2_img img {
+    width: 100%;
+}
+.section_3 .main .product.prd2.info_cover.name {
     font-size: 36px;
     font-weight: bold;
     margin-bottom: 10px;
 }
 
-.section_3 .main .product .info_cover .info {
+.section_3 .main .product.prd2.info_cover .info {
     font-size: 24px;
     font-weight: 500;
     color: #21bd89;

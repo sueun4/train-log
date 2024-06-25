@@ -125,18 +125,18 @@ background-position: 0% 0%;
   text-align: center;
 }
 
-.section_3 .main .product .prd1_img, 
-.section_3 .main .product .prd2_img {
+.section_3 .main .product1 .prd1_img, 
+.section_3 .main .product1 .prd2_img {
   position: relative;
   width: 100%;
 }
 
-.section_3 .main .product .prd1_img img, 
-.section_3 .main .product .prd2_img img {
+.section_3 .main .product1 .prd1_img img, 
+.section_3 .main .product1 .prd2_img img {
   width: 80%;
 }
 
-.section_3 .main .product .info_cover {
+.section_3 .main .product1 .info_cover {
   position: absolute;
   bottom: 20px;
   left: 50%;
@@ -145,13 +145,13 @@ background-position: 0% 0%;
   text-align: center;
 }
 
-.section_3 .main .product .info_cover .name {
+.section_3 .main .product1 .info_cover .name,.section_3 .main .product2 .info_cover .name {
   font-size: 45px;
   font-weight: bold;
   margin-bottom: 10px;
 }
 
-.section_3 .main .product .info_cover .info {
+.section_3 .main .product1 .info_cover .info,.section_3 .main .product2 .info_cover .info {
   font-size: 35px;
   font-weight: 500;
   color: #21bd89;

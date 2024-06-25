@@ -145,8 +145,8 @@ background-position: 0% 0%;
   text-align: center;
 }
 
-.section_3 .main .product_prd1 .info_cover .name {
-  font-size: 42px;
+.section_3 .main .product .info_cover .name {
+  font-size: 45px;
   font-weight: bold;
   margin-bottom: 10px;
 }
@@ -156,6 +156,7 @@ background-position: 0% 0%;
   font-weight: 500;
   color: #21bd89;
 }
+
 
 
 @keyframes title {

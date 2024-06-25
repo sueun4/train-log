@@ -1,21 +1,3 @@
-// window.addEventListener('scroll', () => { 
-
-//         var scrollTop = $(window).scrollTop();
-//         var innerHeight = $(window).innerHeight();
-//         var scrollHeight = $('body').prop('scrollHeight');
-//         console.log(scrollTop);
-//         console.log(innerHeight);
-//         console.log(scrollHeight);
-//         if (scrollTop + innerHeight >= scrollHeight) {
-//             $('#bottom').css('display','block')
-//             $('#wrap').css('position','fixed')
-//         } else {
-//             $('#bottom').css('display','none')
-//             $('#wrap').css('position','unset')
-//         }
-
-// });
-
 $('header .logo').hover(
     function(){$('header .one span').removeClass('out').addClass('in')},
         function(){$('header .one span').removeClass('in').addClass('out')}
